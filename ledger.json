@@ -1,0 +1,15 @@
+{
+  "files": {
+    "b2b0467a1806": {
+      "original_name": "test.txt",
+      "sha256": "166b698506002cef337a57800fb34d020ff7de1f41932dab14a0bf6b6c7928b8",
+      "owner": "Alice",
+      "uploaded_at": "2026-10-26T14:34:08.529875+00:00",
+      "nodes": [
+        "node1",
+        "node2",
+        "node3"
+      ]
+    }
+  }
+}
